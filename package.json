@@ -1,0 +1,20 @@
+{
+  "name": "bambusbot",
+  "version": "1.0.0",
+  "description": "bot bambuciXD",
+  "main": "main.js",
+  "scripts": {
+    "dev:watch": "nodemon main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "bambucia#2137",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/opus": "^0.5.3",
+    "chalk": "^4.1.1",
+    "discord.js": "^12.5.3",
+    "dotenv": "^10.0.0",
+    "mongoose": "^5.12.13",
+    "nodemon": "^2.0.7"
+  }
+}
